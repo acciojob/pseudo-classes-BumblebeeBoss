@@ -2,6 +2,13 @@
 body{
 	background-color:skyblue;
 }
+.a{
+	background-color:black;
+	color:white;
+}
+.b{
+	color:red;
+}
 li:first-child{
 	background-color:white;
 }
